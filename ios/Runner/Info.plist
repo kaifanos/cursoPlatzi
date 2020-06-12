@@ -18,6 +18,25 @@
 	<string>$(FLUTTER_BUILD_NAME)</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>910809748629-pkjl32i4ptj77cjgu9pr1j8qtbbohh19.apps.googleusercontent.com</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.910809748629-pkjl32i4ptj77cjgu9pr1j8qtbbohh19</string>
+			</array>
+		</dict>
+	</array>
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
@@ -41,5 +60,15 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+
+	<key>NSCameraUsageDescription</key>
+    <string>puedo usar tu Camara?.</string>
+
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string> puedo usar tu Galeria?.</string>
+
+    <key>NSMicrophoneUsageDescription</key>
+    <string> puedo usar tu microfono?.</string>
+
 </dict>
 </plist>

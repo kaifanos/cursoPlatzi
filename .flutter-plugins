@@ -1,0 +1,8 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/oscaralonso/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.9.13+1/
+firebase_auth=/Users/oscaralonso/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.9.0/
+firebase_core=/Users/oscaralonso/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.3.4/
+firebase_storage=/Users/oscaralonso/.pub-cache/hosted/pub.dartlang.org/firebase_storage-2.1.1+2/
+google_sign_in=/Users/oscaralonso/.pub-cache/hosted/pub.dartlang.org/google_sign_in-4.5.1/
+google_sign_in_web=/Users/oscaralonso/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.9.1+1/
+image_picker=/Users/oscaralonso/.pub-cache/hosted/pub.dartlang.org/image_picker-0.5.4+3/

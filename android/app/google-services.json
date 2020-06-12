@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "910809748629",
+    "firebase_url": "https://platzicursoprooscar.firebaseio.com",
+    "project_id": "platzicursoprooscar",
+    "storage_bucket": "platzicursoprooscar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910809748629:android:5d008a2be9d91ae921f79c",
+        "android_client_info": {
+          "package_name": "com.anncode.platzitripsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910809748629-klle2nfpfmk0p7jkpcoe2t7m5rrtbplm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anncode.platzitripsapp",
+            "certificate_hash": "b6d5066091c84a67f47ae1e3784b2e80f3427e1b"
+          }
+        },
+        {
+          "client_id": "910809748629-rmkj9n56u6qucucgflhl7jenhn5gdf4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmVvc7s419TyKCR3BGiBdZNV-dRJlN_UM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910809748629-rmkj9n56u6qucucgflhl7jenhn5gdf4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
